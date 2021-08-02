@@ -1,0 +1,29 @@
+10:16:09 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //div[@class='category-cards']/div[4]
+10:16:09 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //div[@class='category-cards']/div[4] found.
+10:16:09 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //span[.='Select Menu']
+10:16:09 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //span[.='Select Menu'] found.
+10:16:10 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: (//div[@class=' css-1hwfws3'])[3]
+10:16:10 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: (//div[@class=' css-1hwfws3'])[3] found.
+10:16:10 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: (//div[@class=' css-1hwfws3'])[3]
+10:16:10 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: (//div[@class=' css-1hwfws3'])[3] found.
+10:16:10 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: (//div[@class=' css-1hwfws3'])[3]
+10:16:10 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: (//div[@class=' css-1hwfws3'])[3] found.
+10:16:12 [Test worker] ERROR com.telran.demoqa.helpers.MyListener - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <div class=" css-1hwfws3">...</div> is not clickable at point (489, 588). Other element would receive the click: <iframe frameborder="0" src="https://f8a77574000824761a1bc227f527b2eb.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html" id="google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="728" height="90" data-is-safeframe="true" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="conversion-measurement" data-google-container-id="1" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe>
+  (Session info: chrome=91.0.4472.124)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-66I6I7I', ip: '192.168.0.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:53194}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 94e6f835d562ab51dae538bfbca3e821
+10:16:12 [Test worker] ERROR com.telran.demoqa.helpers.MyListener - screenshots/screen-972.png
+10:16:12 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //div[text()='Red']
+10:16:22 [Test worker] ERROR com.telran.demoqa.helpers.MyListener - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='Red']"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-66I6I7I', ip: '192.168.0.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:53194}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 94e6f835d562ab51dae538bfbca3e821
+*** Element info: {Using=xpath, value=//div[text()='Red']}
+10:16:22 [Test worker] ERROR com.telran.demoqa.helpers.MyListener - screenshots/screen-982.png

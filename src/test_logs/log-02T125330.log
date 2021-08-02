@@ -1,0 +1,10 @@
+12:53:34 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //div[@class='category-cards']/div[5]
+12:53:34 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //div[@class='category-cards']/div[5] found.
+12:53:35 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //span[.='Droppable']
+12:53:35 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //span[.='Droppable'] found.
+12:53:37 [Forwarding actions on session 8d5eeb78594fd700804547e633259623 to remote] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: draggable
+12:53:37 [Forwarding actions on session 8d5eeb78594fd700804547e633259623 to remote] INFO  com.telran.demoqa.helpers.MyListener - By.id: draggable found.
+12:53:37 [Forwarding actions on session 8d5eeb78594fd700804547e633259623 to remote] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: droppable
+12:53:37 [Forwarding actions on session 8d5eeb78594fd700804547e633259623 to remote] INFO  com.telran.demoqa.helpers.MyListener - By.id: droppable found.
+12:53:37 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: droppable
+12:53:37 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: droppable found.

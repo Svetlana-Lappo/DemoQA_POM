@@ -1,0 +1,48 @@
+22:42:04 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //div[@class='category-cards']/div[4]
+22:42:04 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //div[@class='category-cards']/div[4] found.
+22:42:05 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //div[@class='element-list collapse show']//li[@id='item-2']
+22:42:05 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //div[@class='element-list collapse show']//li[@id='item-2'] found.
+22:42:05 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: dateAndTimePickerInput
+22:42:05 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: dateAndTimePickerInput found.
+22:42:06 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: dateAndTimePickerInput
+22:42:06 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: dateAndTimePickerInput found.
+22:42:06 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: dateAndTimePickerInput
+22:42:06 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: dateAndTimePickerInput found.
+22:42:06 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.cssSelector: .react-datepicker__month-read-view
+22:42:06 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.cssSelector: .react-datepicker__month-read-view found.
+22:42:06 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.cssSelector: .react-datepicker__month-read-view
+22:42:06 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.cssSelector: .react-datepicker__month-read-view found.
+22:42:06 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.cssSelector: .react-datepicker__month-read-view
+22:42:06 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.cssSelector: .react-datepicker__month-read-view found.
+22:42:06 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.cssSelector: .react-datepicker__month-option
+22:42:06 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.cssSelector: .react-datepicker__month-option found.
+22:42:07 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.cssSelector: .react-datepicker__month-option
+22:42:07 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.cssSelector: .react-datepicker__month-option found.
+22:42:07 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.cssSelector: .react-datepicker__month-option
+22:42:07 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.cssSelector: .react-datepicker__month-option found.
+22:42:07 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.cssSelector: .react-datepicker__year-read-view
+22:42:07 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.cssSelector: .react-datepicker__year-read-view found.
+22:42:07 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.cssSelector: .react-datepicker__year-read-view
+22:42:07 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.cssSelector: .react-datepicker__year-read-view found.
+22:42:07 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.cssSelector: .react-datepicker__year-read-view
+22:42:07 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.cssSelector: .react-datepicker__year-read-view found.
+22:42:07 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.cssSelector: .react-datepicker__year-option
+22:42:07 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.cssSelector: .react-datepicker__year-option found.
+22:42:07 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.cssSelector: .react-datepicker__year-option
+22:42:07 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.cssSelector: .react-datepicker__year-option found.
+22:42:08 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.cssSelector: .react-datepicker__year-option
+22:42:08 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.cssSelector: .react-datepicker__year-option found.
+22:42:08 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.cssSelector: .react-datepicker__year-option
+22:42:08 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.cssSelector: .react-datepicker__year-option found.
+22:42:08 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.cssSelector: .react-datepicker__day
+22:42:08 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.cssSelector: .react-datepicker__day found.
+22:42:09 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.cssSelector: .react-datepicker__day
+22:42:09 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.cssSelector: .react-datepicker__day found.
+22:42:09 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.cssSelector: .react-datepicker__day
+22:42:09 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.cssSelector: .react-datepicker__day found.
+22:42:09 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.cssSelector: .react-datepicker__time-list-item 
+22:42:09 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.cssSelector: .react-datepicker__time-list-item  found.
+22:42:10 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.cssSelector: .react-datepicker__time-list-item 
+22:42:10 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.cssSelector: .react-datepicker__time-list-item  found.
+22:42:10 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.cssSelector: .react-datepicker__time-list-item 
+22:42:11 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.cssSelector: .react-datepicker__time-list-item  found.

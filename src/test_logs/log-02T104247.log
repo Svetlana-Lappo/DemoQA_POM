@@ -1,0 +1,36 @@
+10:42:51 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //div[@class='category-cards']/div[4]
+10:42:51 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //div[@class='category-cards']/div[4] found.
+10:42:53 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //div[@class='element-list collapse show']//li[@id='item-2']
+10:42:53 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //div[@class='element-list collapse show']//li[@id='item-2'] found.
+10:42:53 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: datePickerMonthYearInput
+10:42:53 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: datePickerMonthYearInput found.
+10:42:53 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: datePickerMonthYearInput
+10:42:53 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: datePickerMonthYearInput found.
+10:42:53 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: datePickerMonthYearInput
+10:42:53 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: datePickerMonthYearInput found.
+10:42:54 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.cssSelector: .react-datepicker__month-select
+10:42:54 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.cssSelector: .react-datepicker__month-select found.
+10:42:54 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.cssSelector: .react-datepicker__month-select
+10:42:54 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.cssSelector: .react-datepicker__month-select found.
+10:42:54 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.cssSelector: .react-datepicker__month-select
+10:42:54 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.cssSelector: .react-datepicker__month-select found.
+10:42:54 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: .//option[normalize-space(.) = "September"]
+10:42:54 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: .//option[normalize-space(.) = "September"] found.
+10:42:54 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.cssSelector: .react-datepicker__year-select
+10:42:54 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.cssSelector: .react-datepicker__year-select found.
+10:42:54 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.cssSelector: .react-datepicker__year-select
+10:42:54 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.cssSelector: .react-datepicker__year-select found.
+10:42:54 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.cssSelector: .react-datepicker__year-select
+10:42:54 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.cssSelector: .react-datepicker__year-select found.
+10:42:54 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: .//option[normalize-space(.) = "2021"]
+10:42:54 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: .//option[normalize-space(.) = "2021"] found.
+10:42:54 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.cssSelector: .react-datepicker__day
+10:42:54 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.cssSelector: .react-datepicker__day found.
+10:42:55 [Test worker] ERROR com.telran.demoqa.helpers.MyListener - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <div class="react-datepicker__day react-datepicker__day--0..." tabindex="-1" aria-label="Choose Tuesday, September 28th, 2021" role="option" aria-disabled="false">28</div> is not clickable at point (612, 510). Other element would receive the click: <div>...</div>
+  (Session info: chrome=91.0.4472.124)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-66I6I7I', ip: '192.168.0.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:55542}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fe989cfa286fc3a92ccd1e126ca684ed
+10:42:56 [Test worker] ERROR com.telran.demoqa.helpers.MyListener - screenshots/screen-2575.png

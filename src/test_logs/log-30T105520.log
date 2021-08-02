@@ -1,0 +1,16 @@
+10:55:24 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //div[@class='category-cards']/div[4]
+10:55:24 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //div[@class='category-cards']/div[4] found.
+10:55:24 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //span[.='Select Menu']
+10:55:24 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //span[.='Select Menu'] found.
+10:55:25 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: selectOne
+10:55:25 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: selectOne found.
+10:55:25 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //div[text()='Prof.']
+10:55:25 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //div[text()='Prof.'] found.
+10:55:27 [Test worker] ERROR com.telran.demoqa.helpers.MyListener - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <div class=" css-yt9ioa-option" id="react-select-3-option-0-4" tabindex="-1">...</div> is not clickable at point (508, 521). Other element would receive the click: <div>...</div>
+  (Session info: chrome=91.0.4472.124)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-66I6I7I', ip: '192.168.0.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:60783}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a1d6939c39df218ae78b1fe29727d1c0
+10:55:27 [Test worker] ERROR com.telran.demoqa.helpers.MyListener - screenshots/screen-3327.png

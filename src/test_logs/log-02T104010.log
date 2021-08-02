@@ -1,0 +1,28 @@
+10:40:13 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //div[@class='category-cards']/div[4]
+10:40:13 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //div[@class='category-cards']/div[4] found.
+10:40:14 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //div[@class='element-list collapse show']//li[@id='item-2']
+10:40:14 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //div[@class='element-list collapse show']//li[@id='item-2'] found.
+10:40:14 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: datePickerMonthYearInput
+10:40:14 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: datePickerMonthYearInput found.
+10:40:14 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: datePickerMonthYearInput
+10:40:14 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: datePickerMonthYearInput found.
+10:40:14 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: datePickerMonthYearInput
+10:40:14 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: datePickerMonthYearInput found.
+10:40:15 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.cssSelector: .react-datepicker__month-select
+10:40:15 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.cssSelector: .react-datepicker__month-select found.
+10:40:15 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.cssSelector: .react-datepicker__month-select
+10:40:15 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.cssSelector: .react-datepicker__month-select found.
+10:40:15 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.cssSelector: .react-datepicker__month-select
+10:40:15 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.cssSelector: .react-datepicker__month-select found.
+10:40:15 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: .//option[normalize-space(.) = "September"]
+10:40:15 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: .//option[normalize-space(.) = "September"] found.
+10:40:15 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.cssSelector: .react-datepicker__year-select
+10:40:15 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.cssSelector: .react-datepicker__year-select found.
+10:40:15 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.cssSelector: .react-datepicker__year-select
+10:40:15 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.cssSelector: .react-datepicker__year-select found.
+10:40:15 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.cssSelector: .react-datepicker__year-select
+10:40:15 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.cssSelector: .react-datepicker__year-select found.
+10:40:15 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: .//option[normalize-space(.) = "2021"]
+10:40:15 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: .//option[normalize-space(.) = "2021"] found.
+10:40:15 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.cssSelector: .react-datepicker__day
+10:40:15 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.cssSelector: .react-datepicker__day found.

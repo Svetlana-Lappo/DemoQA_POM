@@ -1,0 +1,10 @@
+20:33:39 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //div[@class='category-cards']/div[2]
+20:33:39 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //div[@class='category-cards']/div[2] found.
+20:33:41 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //span[.='Practice Form']
+20:33:41 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //span[.='Practice Form'] found.
+20:33:41 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //label[@for='gender-radio-1']
+20:33:41 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //label[@for='gender-radio-1'] found.
+20:33:41 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //label[@for='gender-radio-1']
+20:33:41 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //label[@for='gender-radio-1'] found.
+20:33:41 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //label[@for='gender-radio-1']
+20:33:41 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //label[@for='gender-radio-1'] found.

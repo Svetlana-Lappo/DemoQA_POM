@@ -1,0 +1,14 @@
+12:56:51 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //div[@class='category-cards']/div[5]
+12:56:51 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //div[@class='category-cards']/div[5] found.
+12:56:52 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //div[@class='element-list collapse show']//li[@id='item-3']
+12:56:52 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //div[@class='element-list collapse show']//li[@id='item-3'] found.
+12:56:52 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: draggable
+12:56:52 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: draggable found.
+12:56:52 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: draggable
+12:56:52 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: draggable found.
+12:56:52 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: droppable
+12:56:52 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: droppable found.
+12:56:52 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: droppable
+12:56:52 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: droppable found.
+12:56:55 [Forwarding actions on session b300b91fb80426245394caec5d9cfeb8 to remote] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: draggable
+12:56:55 [Forwarding actions on session b300b91fb80426245394caec5d9cfeb8 to remote] INFO  com.telran.demoqa.helpers.MyListener - By.id: draggable found.

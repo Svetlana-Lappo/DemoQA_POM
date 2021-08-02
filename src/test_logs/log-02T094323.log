@@ -1,0 +1,88 @@
+09:43:27 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //div[@class='category-cards']/div[2]
+09:43:28 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //div[@class='category-cards']/div[2] found.
+09:43:28 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //span[.='Practice Form']
+09:43:28 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //span[.='Practice Form'] found.
+09:43:28 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: firstName
+09:43:28 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: firstName found.
+09:43:29 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: firstName
+09:43:29 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: firstName found.
+09:43:29 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: firstName
+09:43:29 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: firstName found.
+09:43:29 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: firstName
+09:43:29 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: firstName found.
+09:43:29 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: lastName
+09:43:29 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: lastName found.
+09:43:29 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: lastName
+09:43:29 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: lastName found.
+09:43:29 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: lastName
+09:43:29 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: lastName found.
+09:43:29 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: lastName
+09:43:29 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: lastName found.
+09:43:29 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: userEmail
+09:43:29 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: userEmail found.
+09:43:30 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: userEmail
+09:43:30 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: userEmail found.
+09:43:30 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: userEmail
+09:43:30 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: userEmail found.
+09:43:30 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: userEmail
+09:43:30 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: userEmail found.
+09:43:30 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: userNumber
+09:43:30 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: userNumber found.
+09:43:30 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: userNumber
+09:43:30 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: userNumber found.
+09:43:30 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: userNumber
+09:43:30 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: userNumber found.
+09:43:30 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: userNumber
+09:43:30 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: userNumber found.
+09:43:30 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //label[@for='gender-radio-1']
+09:43:30 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //label[@for='gender-radio-1'] found.
+09:43:30 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //label[@for='gender-radio-1']
+09:43:30 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //label[@for='gender-radio-1'] found.
+09:43:30 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //label[@for='gender-radio-1']
+09:43:30 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //label[@for='gender-radio-1'] found.
+09:43:31 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: dateOfBirthInput
+09:43:31 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: dateOfBirthInput found.
+09:43:31 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: dateOfBirthInput
+09:43:31 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: dateOfBirthInput found.
+09:43:31 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: dateOfBirthInput
+09:43:31 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: dateOfBirthInput found.
+09:43:32 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: dateOfBirthInput
+09:43:32 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: dateOfBirthInput found.
+09:43:32 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: subjectsInput
+09:43:32 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: subjectsInput found.
+09:43:32 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: subjectsInput
+09:43:32 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: subjectsInput found.
+09:43:32 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: subjectsInput
+09:43:32 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: subjectsInput found.
+09:43:32 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: subjectsInput
+09:43:32 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: subjectsInput found.
+09:43:33 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: subjectsInput
+09:43:33 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: subjectsInput found.
+09:43:33 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //label[@for='hobbies-checkbox-3']
+09:43:33 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //label[@for='hobbies-checkbox-3'] found.
+09:43:33 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //label[@for='hobbies-checkbox-3']
+09:43:33 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //label[@for='hobbies-checkbox-3'] found.
+09:43:33 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //label[@for='hobbies-checkbox-3']
+09:43:33 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //label[@for='hobbies-checkbox-3'] found.
+09:43:33 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: uploadPicture
+09:43:33 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: uploadPicture found.
+09:43:35 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: currentAddress
+09:43:35 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: currentAddress found.
+09:43:35 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: currentAddress
+09:43:35 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: currentAddress found.
+09:43:35 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: currentAddress
+09:43:35 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: currentAddress found.
+09:43:35 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: currentAddress
+09:43:35 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: currentAddress found.
+09:43:36 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: state
+09:43:36 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: state found.
+09:43:36 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: react-select-3-input
+09:43:36 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: react-select-3-input found.
+09:43:36 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: react-select-3-input
+09:43:36 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: react-select-3-input found.
+09:43:36 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: city
+09:43:36 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: city found.
+09:43:36 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: react-select-4-input
+09:43:36 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: react-select-4-input found.
+09:43:36 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: react-select-4-input
+09:43:36 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: react-select-4-input found.

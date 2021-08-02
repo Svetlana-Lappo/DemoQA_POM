@@ -1,0 +1,10 @@
+21:42:58 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //div[@class='category-cards']/div[.='Alerts, Frame & Windows']
+21:42:59 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //div[@class='category-cards']/div[.='Alerts, Frame & Windows']found.
+21:42:59 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //span[.='Alerts']
+21:42:59 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //span[.='Alerts']found.
+21:42:59 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: timerAlertButton
+21:42:59 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: timerAlertButtonfound.
+21:43:00 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: timerAlertButton
+21:43:00 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: timerAlertButtonfound.
+21:43:00 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: timerAlertButton
+21:43:00 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: timerAlertButtonfound.

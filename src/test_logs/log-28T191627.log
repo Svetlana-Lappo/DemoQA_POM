@@ -1,0 +1,52 @@
+19:16:33 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //div[@class='category-cards']/div[6]
+19:16:33 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //div[@class='category-cards']/div[6]found.
+19:16:33 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //div[@class='category-cards']/div[6]
+19:16:33 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //div[@class='category-cards']/div[6]found.
+19:16:33 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //div[@class='category-cards']/div[6]
+19:16:33 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //div[@class='category-cards']/div[6]found.
+19:16:34 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: login
+19:16:34 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: loginfound.
+19:16:34 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: login
+19:16:34 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: loginfound.
+19:16:34 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: login
+19:16:34 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: loginfound.
+19:16:34 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: newUser
+19:16:34 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: newUserfound.
+19:16:34 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: newUser
+19:16:34 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: newUserfound.
+19:16:34 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: newUser
+19:16:34 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: newUserfound.
+19:16:34 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: firstname
+19:16:34 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: firstnamefound.
+19:16:35 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: firstname
+19:16:35 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: firstnamefound.
+19:16:35 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: firstname
+19:16:35 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: firstnamefound.
+19:16:35 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: firstname
+19:16:35 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: firstnamefound.
+19:16:35 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: lastname
+19:16:35 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: lastnamefound.
+19:16:35 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: lastname
+19:16:36 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: lastnamefound.
+19:16:36 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: lastname
+19:16:36 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: lastnamefound.
+19:16:36 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: lastname
+19:16:36 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: lastnamefound.
+19:16:36 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: userName
+19:16:36 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: userNamefound.
+19:16:36 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: userName
+19:16:36 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: userNamefound.
+19:16:36 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: userName
+19:16:36 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: userNamefound.
+19:16:36 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: userName
+19:16:36 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: userNamefound.
+19:16:36 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: password
+19:16:36 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: passwordfound.
+19:16:36 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: password
+19:16:36 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: passwordfound.
+19:16:36 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: password
+19:16:36 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: passwordfound.
+19:16:37 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: password
+19:16:37 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: passwordfound.
+19:16:37 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //iframe[@title='reCAPTCHA']
+19:16:37 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //iframe[@title='reCAPTCHA']found.

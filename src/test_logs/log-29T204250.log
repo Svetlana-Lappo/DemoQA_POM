@@ -1,0 +1,32 @@
+20:42:53 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //div[@class='category-cards']/div[2]
+20:42:53 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //div[@class='category-cards']/div[2] found.
+20:42:54 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //span[.='Practice Form']
+20:42:54 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //span[.='Practice Form'] found.
+20:42:54 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //label[@for='gender-radio-1']
+20:42:54 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //label[@for='gender-radio-1'] found.
+20:42:54 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //label[@for='gender-radio-1']
+20:42:54 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //label[@for='gender-radio-1'] found.
+20:42:54 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //label[@for='gender-radio-1']
+20:42:54 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //label[@for='gender-radio-1'] found.
+20:42:55 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: dateOfBirthInput
+20:42:55 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: dateOfBirthInput found.
+20:42:55 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: dateOfBirthInput
+20:42:55 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: dateOfBirthInput found.
+20:42:55 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: dateOfBirthInput
+20:42:55 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: dateOfBirthInput found.
+20:42:56 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: dateOfBirthInput
+20:42:56 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: dateOfBirthInput found.
+20:42:56 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: subjectsContainer
+20:42:56 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: subjectsContainer found.
+20:42:56 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: subjectsContainer
+20:42:56 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: subjectsContainer found.
+20:42:56 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: subjectsContainer
+20:42:56 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: subjectsContainer found.
+20:42:56 [Test worker] ERROR com.telran.demoqa.helpers.MyListener - org.openqa.selenium.InvalidElementStateException: invalid element state
+  (Session info: chrome=91.0.4472.124)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-66I6I7I', ip: '192.168.0.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:64097}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 699af1c0440a33a7fcd08d57b2c95e1c
+20:42:56 [Test worker] ERROR com.telran.demoqa.helpers.MyListener - screenshots/screen-2576.png

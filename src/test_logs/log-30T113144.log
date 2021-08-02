@@ -1,0 +1,12 @@
+11:31:49 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //div[@class='category-cards']/div[4]
+11:31:49 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //div[@class='category-cards']/div[4] found.
+11:31:50 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //div[@class='element-list collapse show']//li[@id='item-8']
+11:31:50 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //div[@class='element-list collapse show']//li[@id='item-8'] found.
+11:31:50 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: cars
+11:31:50 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: cars found.
+11:31:50 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: cars
+11:31:50 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: cars found.
+11:31:51 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: cars
+11:31:51 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: cars found.
+11:31:51 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: .//option[@value = "saab"]
+11:31:51 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: .//option[@value = "saab"] found.

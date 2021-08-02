@@ -1,0 +1,10 @@
+10:05:31 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //div[@class='category-cards']/div[4]
+10:05:32 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //div[@class='category-cards']/div[4] found.
+10:05:32 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //span[.='Select Menu']
+10:05:32 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //span[.='Select Menu'] found.
+10:05:32 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: (//div[@class=' css-1hwfws3'])[3]
+10:05:32 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: (//div[@class=' css-1hwfws3'])[3] found.
+10:05:32 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //div[text()='Red']
+10:05:32 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //div[text()='Red'] found.
+10:05:33 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //html
+10:05:33 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //html found.

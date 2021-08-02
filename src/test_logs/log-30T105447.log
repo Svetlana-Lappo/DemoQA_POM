@@ -1,0 +1,8 @@
+10:54:50 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //div[@class='category-cards']/div[4]
+10:54:50 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //div[@class='category-cards']/div[4] found.
+10:54:51 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //span[.='Select Menu']
+10:54:51 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //span[.='Select Menu'] found.
+10:54:51 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: selectOne
+10:54:51 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: selectOne found.
+10:54:51 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //div[text()='Mr.']
+10:54:52 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //div[text()='Mr.'] found.

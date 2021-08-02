@@ -1,0 +1,20 @@
+10:25:49 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //div[@class='category-cards']/div[4]
+10:25:49 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //div[@class='category-cards']/div[4] found.
+10:25:50 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //span[.='Select Menu']
+10:25:50 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //span[.='Select Menu'] found.
+10:25:50 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: oldSelectMenu
+10:25:50 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: oldSelectMenu found.
+10:25:50 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: oldSelectMenu
+10:25:50 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: oldSelectMenu found.
+10:25:50 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: oldSelectMenu
+10:25:50 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: oldSelectMenu found.
+10:25:50 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: .//option[normalize-space(.) = "Blue"]
+10:25:50 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: .//option[normalize-space(.) = "Blue"] found.
+10:25:50 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: oldSelectMenu
+10:25:50 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: oldSelectMenu found.
+10:25:50 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.tagName: option
+10:25:50 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.tagName: option found.
+10:25:50 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: oldSelectMenu
+10:25:50 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.id: oldSelectMenu found.
+10:25:50 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.tagName: option
+10:25:50 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.tagName: option found.
