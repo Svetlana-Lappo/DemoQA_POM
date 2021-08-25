@@ -1,0 +1,28 @@
+20:33:11 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //div[@class='category-cards']/div[1]
+20:33:11 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //div[@class='category-cards']/div[1] found.
+20:33:11 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //div[@class='element-list collapse show']//li[@id='item-6']
+20:33:11 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //div[@class='element-list collapse show']//li[@id='item-6'] found.
+20:33:12 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.tagName: img
+20:33:12 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.tagName: img found.
+20:33:12 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.tagName: img
+20:33:12 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.tagName: img found.
+20:33:12 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.tagName: img
+20:33:12 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.tagName: img found.
+20:33:13 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.tagName: img
+20:33:13 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.tagName: img found.
+20:33:13 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.tagName: img
+20:33:13 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.tagName: img found.
+20:33:13 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.tagName: img
+20:33:13 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.tagName: img found.
+20:33:13 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.tagName: img
+20:33:13 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.tagName: img found.
+20:33:13 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.tagName: img
+20:33:13 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.tagName: img found.
+20:33:13 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.tagName: img
+20:33:13 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.tagName: img found.
+20:33:14 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.tagName: img
+20:33:14 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.tagName: img found.
+20:33:14 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.tagName: img
+20:33:14 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.tagName: img found.
+20:33:14 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.tagName: img
+20:33:14 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.tagName: img found.

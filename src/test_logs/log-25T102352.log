@@ -1,0 +1,8 @@
+10:23:55 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //div[@class='category-cards']/div[4]
+10:23:55 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //div[@class='category-cards']/div[4] found.
+10:23:56 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.xpath: //span[.='Tool Tips']
+10:23:56 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.xpath: //span[.='Tool Tips'] found.
+10:23:56 [Forwarding actions on session 53afe94966e64dbb03b17de8d2375682 to remote] INFO  com.telran.demoqa.helpers.MyListener - Start search By.id: toolTipButton
+10:23:56 [Forwarding actions on session 53afe94966e64dbb03b17de8d2375682 to remote] INFO  com.telran.demoqa.helpers.MyListener - By.id: toolTipButton found.
+10:23:56 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - Start search By.cssSelector: .tooltip-inner
+10:23:56 [Test worker] INFO  com.telran.demoqa.helpers.MyListener - By.cssSelector: .tooltip-inner found.
